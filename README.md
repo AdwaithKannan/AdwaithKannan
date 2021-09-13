@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AdwaithKannan
-- 👀 I’m interested in full stack developer
-- 🌱 I’m currently learning Advance diploma in it networking & cloud
+- 👀 I’m A full stack developer
+- 🌱 I’m currently Internship Trainee @ IBM
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me adwaithkannan@gmail.com
+- 📫 How to reach me adwaithkannanpkda@gmail.com
 
 <!---
 AdwaithKannan/AdwaithKannan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
